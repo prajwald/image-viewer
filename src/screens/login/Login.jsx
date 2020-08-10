@@ -29,7 +29,7 @@ class Login extends Component {
   }
 
   loginSubmitHandler = () => {
-    const instagramAccessToken = "";
+    const instagramAccessToken = "IGQVJVQUY1X0dyM0I2Ty1oQ2xZANVAtakVLcGVCUWVRNHVDUENMQjlnQ1ZAzR18zNjJRQ2wzQkxqTlZAXTFNuSWI0V2lhbDZAQMFM2SEtoNzAtUjBLb3hDVVlVSFRVb0hVU0VtenBWRWE1LWRNLXhFZAnFFZAHFEZAUcteTdRT1Uw";
     const username = "prajwal";
     const password = "upgrad123";
 
